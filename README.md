@@ -24,7 +24,6 @@ I'm comfortable working across the full backend stack:
 -  **Git & GitHub** — version control & collaboration
 -  **Firebase & Supabase** — backend-as-a-service integrations
 
----
 
 ###  Engineering Principles
 
@@ -37,8 +36,7 @@ I follow solid backend engineering practices — **SOLID principles**, clean cod
 > Looking for **backend or Java developer roles** where I can build real systems, write clean code, and grow into a well-rounded backend engineer.
 
 ---
-goColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 
 
 ##  Socials:
