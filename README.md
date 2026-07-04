@@ -1,12 +1,12 @@
 # 💫 About Me
 
-Hi, I'm **Zahiq Ibrahim** — a Java backend developer focused on building secure, scalable, and production-ready systems.
+Hi, I'm **Zahiq Ibrahim** , a Java backend developer focused on building secure, scalable, and production-ready systems.
 
 ---
 
 ###  Backend
 
-I work primarily with **Spring Boot**, **Spring Security**, and **Spring Data JPA** to design clean RESTful APIs and implement robust authentication flows — including JWT tokens, OTP verification, BCrypt encryption, and stateless session management.
+I work primarily with **Spring Boot**, **Spring Security**, and **Spring Data JPA** to design clean RESTful APIs and implement robust authentication flows  including JWT tokens, OTP verification, BCrypt encryption, and stateless session management.
 
 I'm comfortable working across the full backend stack:
 -  Schema design & layered architecture (Controller → Service → Repository)
